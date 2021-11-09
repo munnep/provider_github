@@ -9,7 +9,7 @@ This repository shows an example on how to use the Github provider for terraform
 ## Install terraform  
 See the following documentation [How to install Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 
-## OAUTH token for Github
+## OAuth token for Github
 See the following documentation. [OAuth Access](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) 
 
 # How to
